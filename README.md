@@ -59,3 +59,6 @@ Do you want to contribute? Here are our [contribution guidelines](https://github
  - Principle #1: The toolkit will be kept simple.
  - Principle #2: As soon as a comparable feature is available in the SDL Studio, it will be marked as deprecated.
  - Principle #3: All features will be supported for the latest SDL Studio release cycles or until another principle supersedes it.
+ 
+ ### This is a new line
+ from starmido 
